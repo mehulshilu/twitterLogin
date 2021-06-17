@@ -1,0 +1,6 @@
+framework module Pods_twiiter_Login {
+  umbrella header "Pods-twiiter-Login-umbrella.h"
+
+  export *
+  module * { export * }
+}
